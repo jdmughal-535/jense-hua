@@ -1,5 +1,10 @@
 name: Render Jensen Huang video
 
+# 6 parallel runners: the 165.6s video is split into 6 shards (~27.6s each),
+# each runner renders its own shard, then the stitch job concats + muxes audio.
+# Root cause of run 44318978916 failure: ubuntu-latest is now 26.04, which
+# Playwright 1.56 does not support. All jobs are pinned to ubuntu-24.04.
+
 on:
   workflow_dispatch:
     inputs:
@@ -17,65 +22,22 @@ permissions:
   contents: read
 
 jobs:
-  render:
-    runs-on: ubuntu-latest
-    timeout-minutes: 360
+  sheet:
+    name: Contact sheet (QC)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    if: inputs.mode == 'sheet' || inputs.mode == 'full'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Node 20
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: "20"
-
-      - name: Set up Python 3.12
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install ffmpeg
-        run: |
+          node-version: "22"
+      - run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg
-
-      - name: Install Node deps
-        run: npm install
-
-      - name: Install Playwright Chromium
-        run: npx playwright install --with-deps chromium
-
-      - name: Install Python deps
-        run: pip install numpy scipy
-
-      - name: Environment check
-        run: python tools/doctor.py
-
-      - name: Contact sheet (QC gate, all modes)
-        run: node render.mjs --project projects/jensen-huang --sheet
-
-      - name: Preview render (0-30s, half scale)
-        if: inputs.mode == 'preview'
-        run: node render.mjs --project projects/jensen-huang --from 0 --to 30 --scale 0.5 --format jpeg
-
-      - name: Full render (silent video)
-        if: inputs.mode == 'full'
-        run: node render.mjs --project projects/jensen-huang --format jpeg
-
-      - name: Mix audio + mux final MP4
-        if: inputs.mode == 'full'
-        run: python audio/mix.py --project projects/jensen-huang
-
-      - name: List outputs
-        if: always()
-        run: |
-          echo "--- build ---"
-          ls -lh projects/jensen-huang/build/ || true
-          echo "--- out ---"
-          ls -lh projects/jensen-huang/out/ || true
-          echo "--- sheets ---"
-          ls -lh projects/jensen-huang/build/sheets/ || true
-
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - run: node render.mjs --project projects/jensen-huang --sheet
       - name: Upload contact sheets
         if: always()
         uses: actions/upload-artifact@v4
@@ -84,16 +46,107 @@ jobs:
           path: projects/jensen-huang/build/sheets/
           if-no-files-found: warn
 
+  render:
+    name: Render shard ${{ matrix.shard }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    if: inputs.mode == 'full' || inputs.mode == 'preview'
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - shard: 0
+            from: 0
+            to: 27.6
+            part: part_00.mp4
+          - shard: 1
+            from: 27.6
+            to: 55.2
+            part: part_01.mp4
+          - shard: 2
+            from: 55.2
+            to: 82.8
+            part: part_02.mp4
+          - shard: 3
+            from: 82.8
+            to: 110.4
+            part: part_03.mp4
+          - shard: 4
+            from: 110.4
+            to: 138.0
+            part: part_04.mp4
+          - shard: 5
+            from: 138.0
+            to: 165.6
+            part: part_05.mp4
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+      - run: npm install
+      - run: npx playwright install --with-deps chromium
+      - name: Render shard (full mode)
+        if: inputs.mode == 'full'
+        run: node render.mjs --project projects/jensen-huang --from ${{ matrix.from }} --to ${{ matrix.to }} --format jpeg --out projects/jensen-huang/build/${{ matrix.part }}
+      - name: Preview render 0-30s (shard 0 only)
+        if: inputs.mode == 'preview' && matrix.shard == 0
+        run: node render.mjs --project projects/jensen-huang --from 0 --to 30 --scale 0.5 --format jpeg --out projects/jensen-huang/build/preview.mp4
+      - name: Upload shard
+        if: inputs.mode == 'full'
+        uses: actions/upload-artifact@v4
+        with:
+          name: part-${{ matrix.shard }}
+          path: projects/jensen-huang/build/${{ matrix.part }}
+          if-no-files-found: error
       - name: Upload preview
-        if: inputs.mode == 'preview'
+        if: inputs.mode == 'preview' && matrix.shard == 0
         uses: actions/upload-artifact@v4
         with:
           name: preview-30s
           path: projects/jensen-huang/build/preview.mp4
           if-no-files-found: warn
 
+  stitch:
+    name: Stitch + mix final MP4
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    needs: render
+    if: inputs.mode == 'full'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+      - run: pip install numpy scipy
+      - name: Download all 6 parts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: part-*
+          path: projects/jensen-huang/build/parts
+          merge-multiple: true
+      - name: Concat parts in order
+        run: |
+          ls -lh projects/jensen-huang/build/parts/
+          cd projects/jensen-huang/build
+          printf "file 'parts/part_00.mp4'\nfile 'parts/part_01.mp4'\nfile 'parts/part_02.mp4'\nfile 'parts/part_03.mp4'\nfile 'parts/part_04.mp4'\nfile 'parts/part_05.mp4'\n" > concat.txt
+          ffmpeg -y -v error -f concat -safe 0 -i concat.txt -c copy video_silent.mp4
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1 video_silent.mp4
+      - name: Mix audio + mux final MP4
+        run: python audio/mix.py --project projects/jensen-huang
+      - name: List outputs
+        if: always()
+        run: |
+          ls -lh projects/jensen-huang/build/video_silent.mp4 || true
+          ls -lh projects/jensen-huang/out/ || true
       - name: Upload final video
-        if: inputs.mode == 'full'
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: jensen-huang-final
