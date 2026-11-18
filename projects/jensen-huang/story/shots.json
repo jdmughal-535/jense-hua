@@ -1,0 +1,1895 @@
+{
+ "title": "Who Gets Jensen Huang Next?",
+ "duration": 165.6,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.337,
+   "anchor": 0,
+   "line": "Thursday morning, Jensen Huang lost his job.",
+   "scene": "WIDE: Jensen alone at the big window of his office, cold dawn light, slow push-in; clock badge THU 9:00",
+   "set": "office",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "roomtone",
+     "gain": -20
+    },
+    {
+     "at": 1.2,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.337,
+   "end": 5.724,
+   "anchor": 7,
+   "line": "By Thursday night, the richest man on Earth had offered him a new one.",
+   "scene": "MEDIUM: rooftop at night, Elon (orange tee) holds out a job offer toward the skyline, wind, drift left",
+   "set": "rooftop",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "wind",
+     "gain": -18
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s003",
+   "start": 5.724,
+   "end": 8.733,
+   "anchor": 21,
+   "line": "Gamblers were betting real money on where he'd land.",
+   "scene": "INSERT: three gambler silhouettes around a glowing odds screen, dollar signs float up",
+   "set": "bets",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s004",
+   "start": 8.733,
+   "end": 13.998,
+   "anchor": 30,
+   "line": "And 1,600 Nvidia employees were begging for one thing: bring him back.",
+   "scene": "MEDIUM: crowd of Nvidia employees with BRING HIM BACK signs, counter 1,600 ticks up on the word",
+   "set": "crowd",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "murmur",
+     "gain": -18
+    },
+    {
+     "at": 0.9,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 3.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s005",
+   "start": 13.998,
+   "end": 15.396,
+   "anchor": 42,
+   "line": "Quick recap.",
+   "scene": "TITLE: QUICK RECAP on dark void with glow",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s006",
+   "start": 15.396,
+   "end": 16.534,
+   "anchor": 44,
+   "line": "Two affairs,",
+   "scene": "INSERT: case-file card slides in: 2 AFFAIRS, red string on cork-dark board",
+   "set": "casefile",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s007",
+   "start": 16.534,
+   "end": 17.633,
+   "anchor": 46,
+   "line": "one alleged spy,",
+   "scene": "INSERT: trench-coat silhouette half in shadow with magnifier, ALLEGED SPY stamp",
+   "set": "casefile2",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s008",
+   "start": 17.633,
+   "end": 20.039,
+   "anchor": 49,
+   "line": "and a board that said \"effective immediately.\"",
+   "scene": "MEDIUM: boardroom, board silhouettes at long table, one points at the door, EFFECTIVE IMMEDIATELY stamp slams, Jensen walks out",
+   "set": "boardroom",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "hum",
+     "gain": -24
+    },
+    {
+     "at": 1.0,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s009",
+   "start": 20.039,
+   "end": 22.292,
+   "anchor": 56,
+   "line": "Today's question is different:",
+   "scene": "WIDE: Jensen alone on a rainy night street, lamp posts, slow push",
+   "set": "street",
+   "bars": "wide",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "rain",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s010",
+   "start": 22.292,
+   "end": 23.749,
+   "anchor": 60,
+   "line": "who gets him next?",
+   "scene": "GIANT FACE: Jensen, thinking, question mark floats, glow",
+   "set": "face",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "rain",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s011",
+   "start": 23.749,
+   "end": 28.862,
+   "anchor": 64,
+   "line": "It started with one post. Zero Hedge wrote: \"Elon, please hire Jensen.\"",
+   "scene": "INSERT: phone close-up, post card types in: Zero Hedge, ELON, PLEASE HIRE JENSEN",
+   "set": "phone",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.8,
+     "name": "phonebuzz",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s012",
+   "start": 28.862,
+   "end": 31.088,
+   "anchor": 76,
+   "line": "Elon replied in five words:",
+   "scene": "MEDIUM: Elon on the rooftop typing on his phone, smirk, skyline glow",
+   "set": "rooftop2",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s013",
+   "start": 31.088,
+   "end": 32.489,
+   "anchor": 81,
+   "line": "\"That would be an honor.\"",
+   "scene": "INSERT: reply card, five words pop in one by one on the beat of each word, counter 5",
+   "set": "reply",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s014",
+   "start": 32.489,
+   "end": 33.84,
+   "anchor": 86,
+   "line": "Tech split in two.",
+   "scene": "WIDE: crowd of tech fans split by a crack down the middle of the frame, two sides lean apart",
+   "set": "split",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -8
+    },
+    {
+     "at": 0.4,
+     "name": "glitch",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s015",
+   "start": 33.84,
+   "end": 36.917,
+   "anchor": 90,
+   "line": "Tim Sweeney called it a sad day for \"all humanity.\"",
+   "scene": "MEDIUM: speaker silhouette left, speech bubble: A SAD DAY FOR ALL HUMANITY, label TIM SWEENEY",
+   "set": "speaker",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s016",
+   "start": 36.917,
+   "end": 40.345,
+   "anchor": 100,
+   "line": "Lex Fridman compared it to Apple firing Steve Jobs.",
+   "scene": "MEDIUM: speaker label LEX FRIDMAN, right: lone figure in turtleneck walking out of a door past an apple-shaped sign",
+   "set": "speaker2",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.0,
+     "name": "footstep",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s017",
+   "start": 40.345,
+   "end": 42.845,
+   "anchor": 109,
+   "line": "But investor Sarah Guo said it best:",
+   "scene": "MEDIUM: speaker label SARAH GUO, a tall glowing figure casting a long shadow",
+   "set": "speaker3",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s018",
+   "start": 42.845,
+   "end": 45.288,
+   "anchor": 116,
+   "line": "greatness doesn't guarantee goodness.",
+   "scene": "TEXT: GREATNESS vs GOODNESS, two glowing words on dark, unequal sign",
+   "set": "greatness",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -10
+    },
+    {
+     "at": 1.2,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s019",
+   "start": 45.288,
+   "end": 46.939,
+   "anchor": 120,
+   "line": "On Polymarket,",
+   "scene": "UI: odds board WHERE WILL JENSEN LAND? with five rows appearing",
+   "set": "odds",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s020",
+   "start": 46.939,
+   "end": 52.55,
+   "anchor": 122,
+   "line": "Elon's SpaceX and xAI started near 27%, then dropped to about 10.",
+   "scene": "DATA CARD: ELON · SPACEX + XAI, counter falls 27% to 10%, curve drops",
+   "set": "card27",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 3.4,
+     "name": "impact",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s021",
+   "start": 52.55,
+   "end": 53.432,
+   "anchor": 134,
+   "line": "Why?",
+   "scene": "GIANT FACE: Jensen, confused, brow up",
+   "set": "face2",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s022",
+   "start": 53.432,
+   "end": 57.268,
+   "anchor": 135,
+   "line": "Every name on that board is Nvidia's customer, supplier, or rival.",
+   "scene": "BLUEPRINT: NVIDIA node in the centre, arrows to CUSTOMER, SUPPLIER, RIVAL, labels pop on the words",
+   "set": "diagram",
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 1.4,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.6,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s023",
+   "start": 57.268,
+   "end": 58.517,
+   "anchor": 146,
+   "line": "Elon first.",
+   "scene": "TITLE: ELON, orange glow, rooftop silhouette behind",
+   "set": "title_elon",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s024",
+   "start": 58.517,
+   "end": 59.878,
+   "anchor": 148,
+   "line": "Perfect on paper:",
+   "scene": "MEDIUM: Elon and Jensen shake hands on the rooftop, golden light, thumbs up",
+   "set": "handshake",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s025",
+   "start": 59.878,
+   "end": 61.449,
+   "anchor": 151,
+   "line": "he wants his own chip factory.",
+   "scene": "WIDE: chip factory silhouette with smokestacks rises, glowing chip icon above",
+   "set": "factory",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "powerup",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s026",
+   "start": 61.449,
+   "end": 65.437,
+   "anchor": 157,
+   "line": "But Jensen still owns over 800 million Nvidia shares.",
+   "scene": "MEDIUM: Jensen beside a mountain of green chips, counter 800M+ NVIDIA SHARES",
+   "set": "shares",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 2.0,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s027",
+   "start": 65.437,
+   "end": 69.724,
+   "anchor": 166,
+   "line": "Every chip he helps Elon build is one Nvidia doesn't sell.",
+   "scene": "INSERT: conveyor of chips rolling from the factory, the last chip gets crossed out, minus one",
+   "set": "chips",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -14
+    },
+    {
+     "at": 3.4,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s028",
+   "start": 69.724,
+   "end": 72.409,
+   "anchor": 177,
+   "line": "And two men who always need the final word?",
+   "scene": "MEDIUM: Elon and Jensen face to face, both shouting speech bubbles, rim lights clash",
+   "set": "faceoff",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s029",
+   "start": 72.409,
+   "end": 74.49,
+   "anchor": 186,
+   "line": "Same building? Same company?",
+   "scene": "MEDIUM: one narrow door, two big figures squeezing through, then a door sign with two names",
+   "set": "doorway",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 1.0,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s030",
+   "start": 74.49,
+   "end": 75.497,
+   "anchor": 190,
+   "line": "Next, TSMC.",
+   "scene": "TITLE: TSMC, yellow glow, fab silhouette",
+   "set": "title_tsmc",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s031",
+   "start": 75.497,
+   "end": 81.522,
+   "anchor": 192,
+   "line": "Back in 2013, founder Morris Chang tried to hire Jensen as his successor.",
+   "scene": "MEDIUM: calendar flips to 2013, Morris Chang (yellow suit) offers Jensen a relay baton, Jensen shakes his head",
+   "set": "morris",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 2.4,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s032",
+   "start": 81.522,
+   "end": 83.123,
+   "anchor": 205,
+   "line": "Jensen said no.",
+   "scene": "GIANT FACE: Jensen determined, NO pops in",
+   "set": "face_no",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s033",
+   "start": 83.123,
+   "end": 85.443,
+   "anchor": 208,
+   "line": "Today it sits at about 5%.",
+   "scene": "DATA CARD: TSMC meter fills just to 5%",
+   "set": "pct5",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s034",
+   "start": 85.443,
+   "end": 89.142,
+   "anchor": 214,
+   "line": "AMD's Lisa Su is a distant relative of Jensen's.",
+   "scene": "BLUEPRINT: family tree line from Lisa Su (red) to Jensen (green), DISTANT RELATIVE label",
+   "set": "family",
+   "bars": "none",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s035",
+   "start": 89.142,
+   "end": 90.809,
+   "anchor": 223,
+   "line": "Imagine that family dinner.",
+   "scene": "MEDIUM: Lisa and Jensen sit across a dinner table, steaming dish between, both glance sideways",
+   "set": "dinner",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "roomtone",
+     "gain": -22
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s036",
+   "start": 90.809,
+   "end": 92.125,
+   "anchor": 227,
+   "line": "Then SoftBank.",
+   "scene": "TITLE: SOFTBANK, blue glow, skyline",
+   "set": "title_soft",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s037",
+   "start": 92.125,
+   "end": 95.189,
+   "anchor": 229,
+   "line": "Masayoshi Son sold his Nvidia stake twice.",
+   "scene": "MEDIUM: Masayoshi Son (blue suit) stamps SOLD on a share certificate twice, counter 1, 2",
+   "set": "sold",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -8
+    },
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s038",
+   "start": 95.189,
+   "end": 97.237,
+   "anchor": 236,
+   "line": "Now he'd have to buy the man himself.",
+   "scene": "MEDIUM: Masayoshi with a bag of cash eyeing Jensen who wears a price tag with a question mark",
+   "set": "buy",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s039",
+   "start": 97.237,
+   "end": 99.148,
+   "anchor": 244,
+   "line": "And SoftBank owns ARM,",
+   "scene": "INSERT: big ARM chip with a blue SoftBank flag planted on it",
+   "set": "arm",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s040",
+   "start": 99.148,
+   "end": 102.961,
+   "anchor": 248,
+   "line": "whose boss Nvidia's board reportedly approached for Jensen's old job.",
+   "scene": "MEDIUM: board silhouettes approach a faceless ARM boss holding an offer, an empty chair behind",
+   "set": "approach",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s041",
+   "start": 102.961,
+   "end": 105.588,
+   "anchor": 258,
+   "line": "Musical chairs, with trillion-dollar chairs.",
+   "scene": "TOP-DOWN: six chairs in a circle each with a dollar sign, figures run around the circle, music stops",
+   "set": "chairs",
+   "bars": "wide",
+   "in": {
+    "type": "whip",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    },
+    {
+     "at": 2.4,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s042",
+   "start": 105.588,
+   "end": 106.706,
+   "anchor": 263,
+   "line": "Or he starts over,",
+   "scene": "WIDE: Jensen walks away down the night street carrying a box, rain",
+   "set": "walkaway",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "footstep",
+     "gain": -12
+    },
+    {
+     "at": 0.4,
+     "name": "rain",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s043",
+   "start": 106.706,
+   "end": 108.676,
+   "anchor": 267,
+   "line": "like 1993, three engineers in a Denny's booth.",
+   "scene": "MEDIUM: Denny's style diner booth, three engineers over coffee, neon sign, badge 1993",
+   "set": "diner",
+   "bars": "wide",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "roomtone",
+     "gain": -22
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s044",
+   "start": 108.676,
+   "end": 110.763,
+   "anchor": 275,
+   "line": "This time, with $100 billion.",
+   "scene": "MEDIUM: same diner, a tower of cash fills the booth, $100 BILLION counter",
+   "set": "money",
+   "bars": "wide",
+   "in": {
+    "type": "flash",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "powerup",
+     "gain": -10
+    },
+    {
+     "at": 0.5,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s045",
+   "start": 110.763,
+   "end": 113.211,
+   "anchor": 280,
+   "line": "But here's the strangest bet.",
+   "scene": "TEXT: Polymarket card WILL JENSEN REJOIN NVIDIA? with a green dot",
+   "set": "rejoinq",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "stinger",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s046",
+   "start": 113.211,
+   "end": 114.92,
+   "anchor": 285,
+   "line": "Will Jensen rejoin Nvidia?",
+   "scene": "MEDIUM: Jensen outside the Nvidia door with green light spilling out, hand near the handle",
+   "set": "door",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s047",
+   "start": 114.92,
+   "end": 116.867,
+   "anchor": 289,
+   "line": "Seven percent by year-end.",
+   "scene": "DATA: bar BY YEAR-END fills to 7%",
+   "set": "bar7",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s048",
+   "start": 116.867,
+   "end": 118.759,
+   "anchor": 293,
+   "line": "Thirty-one percent by the end of next year.",
+   "scene": "DATA: second bar END OF NEXT YEAR fills to 31%",
+   "set": "bar31",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -12
+    },
+    {
+     "at": 1.6,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s049",
+   "start": 118.759,
+   "end": 121.135,
+   "anchor": 301,
+   "line": "That's higher than every rival.",
+   "scene": "DATA: bars compare REJOIN 31 vs ELON 10 vs TSMC 5, the green bar towers",
+   "set": "compare",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s050",
+   "start": 121.135,
+   "end": 122.955,
+   "anchor": 306,
+   "line": "The reason is the spy question.",
+   "scene": "MEDIUM: figure in trench, fedora and sunglasses, half in shadow under a streetlight, question mark",
+   "set": "spy",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "rain",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s051",
+   "start": 122.955,
+   "end": 128.059,
+   "anchor": 312,
+   "line": "Trump said: if she was a spy, he was right to go.",
+   "scene": "MEDIUM: empty podium with microphones and flags in dark, quote card IF SHE WAS A SPY, HE WAS RIGHT TO GO.",
+   "set": "podium",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s052",
+   "start": 128.059,
+   "end": 130.243,
+   "anchor": 324,
+   "line": "If not, \"perhaps it would be different.\"",
+   "scene": "MEDIUM: road splits in two under a streetlight, quote PERHAPS IT WOULD BE DIFFERENT, Jensen small at the fork",
+   "set": "paths",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s053",
+   "start": 130.243,
+   "end": 133.244,
+   "anchor": 331,
+   "line": "Nothing has been proven, China denies it,",
+   "scene": "INSERT: board card NOTHING PROVEN with blank evidence pins, then a figure crosses arms and an X marks CHINA DENIES",
+   "set": "proven",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    },
+    {
+     "at": 2.0,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s054",
+   "start": 133.244,
+   "end": 136.053,
+   "anchor": 338,
+   "line": "and Jensen has admitted the affair and apologized.",
+   "scene": "MEDIUM: Jensen head bowed in the rain, hands clasped, slow push-in",
+   "set": "apology",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "rain",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s055",
+   "start": 136.053,
+   "end": 137.773,
+   "anchor": 346,
+   "line": "Why should you care?",
+   "scene": "GIANT FACE: a plain viewer figure, eyes wide, WHY CARE glow",
+   "set": "youface",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s056",
+   "start": 137.773,
+   "end": 139.252,
+   "anchor": 350,
+   "line": "If you own an S&P 500 fund,",
+   "scene": "DATA CARD: S&P 500 line rising steadily",
+   "set": "sp500",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s057",
+   "start": 139.252,
+   "end": 140.203,
+   "anchor": 357,
+   "line": "a big slice of it is Nvidia.",
+   "scene": "INSERT: pie chart, one big green slice grows and glows, label NVIDIA",
+   "set": "pie",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s058",
+   "start": 140.203,
+   "end": 142.164,
+   "anchor": 364,
+   "line": "This is your retirement.",
+   "scene": "MEDIUM: figure in a chair on a porch at sunset, glowing green slice drifts in the sky",
+   "set": "retire",
+   "bars": "wide",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s059",
+   "start": 142.164,
+   "end": 143.754,
+   "anchor": 368,
+   "line": "Watch two dates:",
+   "scene": "TEXT: WATCH TWO DATES on dark with two calendar pages",
+   "set": "twodates",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s060",
+   "start": 143.754,
+   "end": 145.154,
+   "anchor": 371,
+   "line": "Nvidia's first earnings without him,",
+   "scene": "MEDIUM: empty podium chair, earnings chart card FIRST EARNINGS WITHOUT HIM",
+   "set": "earnings",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s061",
+   "start": 145.154,
+   "end": 146.28,
+   "anchor": 376,
+   "line": "and December 1st,",
+   "scene": "INSERT: calendar page DEC 1 flips in, circled in red",
+   "set": "dec1",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 0.6,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -30
+   }
+  },
+  {
+   "id": "s062",
+   "start": 146.28,
+   "end": 147.22,
+   "anchor": 379,
+   "line": "when Congress questions him.",
+   "scene": "WIDE: hearing room, long dais, row of senator silhouettes, Jensen small at the witness table, mic glints",
+   "set": "hearing",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "murmur",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s063",
+   "start": 147.22,
+   "end": 148.333,
+   "anchor": 383,
+   "line": "Two weeks ago,",
+   "scene": "WIDE: Nvidia tower at night, green glow, Jensen silhouette on the roof, slow push",
+   "set": "hq",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "wind",
+     "gain": -20
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s064",
+   "start": 148.333,
+   "end": 150.926,
+   "anchor": 386,
+   "line": "nobody could picture Nvidia without Jensen.",
+   "scene": "WIDE: same tower, Jensen figure fades away leaving the roof empty",
+   "set": "hq2",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s065",
+   "start": 150.926,
+   "end": 153.399,
+   "anchor": 392,
+   "line": "Now the betting money says neither picture lasts.",
+   "scene": "MEDIUM: two framed pictures on a wall, Jensen at Nvidia and Jensen elsewhere, both frames fall at neither picture lasts",
+   "set": "frames",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "tick",
+     "gain": -12
+    },
+    {
+     "at": 2.0,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s066",
+   "start": 153.399,
+   "end": 157.878,
+   "anchor": 400,
+   "line": "\"Any offers, Mr. Huang?\"",
+   "scene": "MEDIUM: reporter with a microphone, Jensen answers, night street, camera flashes",
+   "set": "reporter",
+   "bars": "wide",
+   "in": {
+    "type": "dip",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s067",
+   "start": 157.878,
+   "end": 161.066,
+   "anchor": 404,
+   "line": "\"Elon, TSMC, SoftBank, a few governments.\"",
+   "scene": "MEDIUM: offer papers flying in toward Jensen labelled ELON TSMC SOFTBANK GOVERNMENTS",
+   "set": "offers",
+   "bars": "wide",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -12
+    },
+    {
+     "at": 1.0,
+     "name": "swish",
+     "gain": -12
+    },
+    {
+     "at": 1.7,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s068",
+   "start": 161.066,
+   "end": 162.385,
+   "anchor": 410,
+   "line": "\"What are you looking for?\"",
+   "scene": "GIANT FACE: reporter close, microphone in frame",
+   "set": "reporter2",
+   "bars": "scope",
+   "in": {
+    "type": "cut",
+    "dur": 0.3
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "city",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s069",
+   "start": 162.385,
+   "end": 165.6,
+   "anchor": 415,
+   "line": "\"My old desk.\"",
+   "scene": "WIDE: Jensen sits at his old desk in the empty office, warm lamp, tender, slow pull-out, fade to black",
+   "set": "olddesk",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "roomtone",
+     "gain": -22
+    },
+    {
+     "at": 1.4,
+     "name": "ding",
+     "gain": -12
+    }
+   ],
+   "amb": {
+    "name": "roomtone",
+    "gain": -24
+   }
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 165.6,
+   "mood": "mystery",
+   "intensity": 0.3
+  }
+ ],
+ "sfx": []
+}

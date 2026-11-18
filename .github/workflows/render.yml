@@ -1,0 +1,103 @@
+name: Render Jensen Huang video
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to render"
+        type: choice
+        required: true
+        default: full
+        options:
+          - full
+          - sheet
+          - preview
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Install Node deps
+        run: npm install
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Install Python deps
+        run: pip install numpy scipy
+
+      - name: Environment check
+        run: python tools/doctor.py
+
+      - name: Contact sheet (QC gate, all modes)
+        run: node render.mjs --project projects/jensen-huang --sheet
+
+      - name: Preview render (0-30s, half scale)
+        if: inputs.mode == 'preview'
+        run: node render.mjs --project projects/jensen-huang --from 0 --to 30 --scale 0.5 --format jpeg
+
+      - name: Full render (silent video)
+        if: inputs.mode == 'full'
+        run: node render.mjs --project projects/jensen-huang --format jpeg
+
+      - name: Mix audio + mux final MP4
+        if: inputs.mode == 'full'
+        run: python audio/mix.py --project projects/jensen-huang
+
+      - name: List outputs
+        if: always()
+        run: |
+          echo "--- build ---"
+          ls -lh projects/jensen-huang/build/ || true
+          echo "--- out ---"
+          ls -lh projects/jensen-huang/out/ || true
+          echo "--- sheets ---"
+          ls -lh projects/jensen-huang/build/sheets/ || true
+
+      - name: Upload contact sheets
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: contact-sheets
+          path: projects/jensen-huang/build/sheets/
+          if-no-files-found: warn
+
+      - name: Upload preview
+        if: inputs.mode == 'preview'
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-30s
+          path: projects/jensen-huang/build/preview.mp4
+          if-no-files-found: warn
+
+      - name: Upload final video
+        if: inputs.mode == 'full'
+        uses: actions/upload-artifact@v4
+        with:
+          name: jensen-huang-final
+          path: |
+            projects/jensen-huang/out/*.mp4
+            projects/jensen-huang/build/video_silent.mp4
+          if-no-files-found: warn

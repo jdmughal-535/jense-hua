@@ -1,0 +1,2095 @@
+{
+ "source": "estimated",
+ "words": [
+  {
+   "word": "Thursday",
+   "start": 0.22,
+   "end": 0.657
+  },
+  {
+   "word": "morning,",
+   "start": 0.677,
+   "end": 1.066
+  },
+  {
+   "word": "Jensen",
+   "start": 1.086,
+   "end": 1.427
+  },
+  {
+   "word": "Huang",
+   "start": 1.447,
+   "end": 1.74
+  },
+  {
+   "word": "lost",
+   "start": 1.76,
+   "end": 2.004
+  },
+  {
+   "word": "his",
+   "start": 2.024,
+   "end": 2.221
+  },
+  {
+   "word": "job.",
+   "start": 2.241,
+   "end": 2.437
+  },
+  {
+   "word": "By",
+   "start": 2.457,
+   "end": 2.955
+  },
+  {
+   "word": "Thursday",
+   "start": 2.975,
+   "end": 3.331
+  },
+  {
+   "word": "night,",
+   "start": 3.351,
+   "end": 3.588
+  },
+  {
+   "word": "the",
+   "start": 3.608,
+   "end": 3.766
+  },
+  {
+   "word": "richest",
+   "start": 3.786,
+   "end": 4.103
+  },
+  {
+   "word": "man",
+   "start": 4.123,
+   "end": 4.281
+  },
+  {
+   "word": "on",
+   "start": 4.301,
+   "end": 4.419
+  },
+  {
+   "word": "Earth",
+   "start": 4.439,
+   "end": 4.676
+  },
+  {
+   "word": "had",
+   "start": 4.696,
+   "end": 4.854
+  },
+  {
+   "word": "offered",
+   "start": 4.874,
+   "end": 5.191
+  },
+  {
+   "word": "him",
+   "start": 5.211,
+   "end": 5.369
+  },
+  {
+   "word": "a",
+   "start": 5.389,
+   "end": 5.468
+  },
+  {
+   "word": "new",
+   "start": 5.488,
+   "end": 5.646
+  },
+  {
+   "word": "one.",
+   "start": 5.666,
+   "end": 5.824
+  },
+  {
+   "word": "Gamblers",
+   "start": 5.844,
+   "end": 6.848
+  },
+  {
+   "word": "were",
+   "start": 6.868,
+   "end": 7.08
+  },
+  {
+   "word": "betting",
+   "start": 7.1,
+   "end": 7.439
+  },
+  {
+   "word": "real",
+   "start": 7.459,
+   "end": 7.672
+  },
+  {
+   "word": "money",
+   "start": 7.692,
+   "end": 7.946
+  },
+  {
+   "word": "on",
+   "start": 7.966,
+   "end": 8.094
+  },
+  {
+   "word": "where",
+   "start": 8.114,
+   "end": 8.369
+  },
+  {
+   "word": "he'd",
+   "start": 8.389,
+   "end": 8.601
+  },
+  {
+   "word": "land.",
+   "start": 8.621,
+   "end": 8.833
+  },
+  {
+   "word": "And",
+   "start": 8.853,
+   "end": 9.722
+  },
+  {
+   "word": "1,600",
+   "start": 9.742,
+   "end": 10.191
+  },
+  {
+   "word": "Nvidia",
+   "start": 10.211,
+   "end": 10.604
+  },
+  {
+   "word": "employees",
+   "start": 10.624,
+   "end": 11.184
+  },
+  {
+   "word": "were",
+   "start": 11.204,
+   "end": 11.487
+  },
+  {
+   "word": "begging",
+   "start": 11.507,
+   "end": 11.956
+  },
+  {
+   "word": "for",
+   "start": 11.976,
+   "end": 12.204
+  },
+  {
+   "word": "one",
+   "start": 12.224,
+   "end": 12.452
+  },
+  {
+   "word": "thing:",
+   "start": 12.472,
+   "end": 12.811
+  },
+  {
+   "word": "bring",
+   "start": 12.831,
+   "end": 13.656
+  },
+  {
+   "word": "him",
+   "start": 13.676,
+   "end": 13.855
+  },
+  {
+   "word": "back.",
+   "start": 13.875,
+   "end": 14.098
+  },
+  {
+   "word": "Quick",
+   "start": 14.118,
+   "end": 15.148
+  },
+  {
+   "word": "recap.",
+   "start": 15.168,
+   "end": 15.496
+  },
+  {
+   "word": "Two",
+   "start": 15.516,
+   "end": 16.1
+  },
+  {
+   "word": "affairs,",
+   "start": 16.12,
+   "end": 16.634
+  },
+  {
+   "word": "one",
+   "start": 16.654,
+   "end": 16.916
+  },
+  {
+   "word": "alleged",
+   "start": 16.936,
+   "end": 17.45
+  },
+  {
+   "word": "spy,",
+   "start": 17.47,
+   "end": 17.733
+  },
+  {
+   "word": "and",
+   "start": 17.753,
+   "end": 18.212
+  },
+  {
+   "word": "a",
+   "start": 18.232,
+   "end": 18.324
+  },
+  {
+   "word": "board",
+   "start": 18.344,
+   "end": 18.615
+  },
+  {
+   "word": "that",
+   "start": 18.635,
+   "end": 18.862
+  },
+  {
+   "word": "said",
+   "start": 18.882,
+   "end": 19.108
+  },
+  {
+   "word": "\"effective",
+   "start": 19.128,
+   "end": 19.579
+  },
+  {
+   "word": "immediately.\"",
+   "start": 19.599,
+   "end": 20.139
+  },
+  {
+   "word": "Today's",
+   "start": 20.159,
+   "end": 21.251
+  },
+  {
+   "word": "question",
+   "start": 21.271,
+   "end": 21.712
+  },
+  {
+   "word": "is",
+   "start": 21.732,
+   "end": 21.882
+  },
+  {
+   "word": "different:",
+   "start": 21.902,
+   "end": 22.392
+  },
+  {
+   "word": "who",
+   "start": 22.412,
+   "end": 23.041
+  },
+  {
+   "word": "gets",
+   "start": 23.061,
+   "end": 23.328
+  },
+  {
+   "word": "him",
+   "start": 23.348,
+   "end": 23.563
+  },
+  {
+   "word": "next?",
+   "start": 23.583,
+   "end": 23.849
+  },
+  {
+   "word": "It",
+   "start": 23.869,
+   "end": 24.496
+  },
+  {
+   "word": "started",
+   "start": 24.516,
+   "end": 24.897
+  },
+  {
+   "word": "with",
+   "start": 24.917,
+   "end": 25.156
+  },
+  {
+   "word": "one",
+   "start": 25.176,
+   "end": 25.368
+  },
+  {
+   "word": "post.",
+   "start": 25.388,
+   "end": 25.628
+  },
+  {
+   "word": "Zero",
+   "start": 25.648,
+   "end": 26.385
+  },
+  {
+   "word": "Hedge",
+   "start": 26.405,
+   "end": 26.739
+  },
+  {
+   "word": "wrote:",
+   "start": 26.759,
+   "end": 27.092
+  },
+  {
+   "word": "\"Elon,",
+   "start": 27.112,
+   "end": 27.74
+  },
+  {
+   "word": "please",
+   "start": 27.76,
+   "end": 28.187
+  },
+  {
+   "word": "hire",
+   "start": 28.207,
+   "end": 28.515
+  },
+  {
+   "word": "Jensen.\"",
+   "start": 28.535,
+   "end": 28.962
+  },
+  {
+   "word": "Elon",
+   "start": 28.982,
+   "end": 29.821
+  },
+  {
+   "word": "replied",
+   "start": 29.841,
+   "end": 30.305
+  },
+  {
+   "word": "in",
+   "start": 30.325,
+   "end": 30.505
+  },
+  {
+   "word": "five",
+   "start": 30.525,
+   "end": 30.818
+  },
+  {
+   "word": "words:",
+   "start": 30.838,
+   "end": 31.188
+  },
+  {
+   "word": "\"That",
+   "start": 31.208,
+   "end": 31.78
+  },
+  {
+   "word": "would",
+   "start": 31.8,
+   "end": 32.043
+  },
+  {
+   "word": "be",
+   "start": 32.063,
+   "end": 32.184
+  },
+  {
+   "word": "an",
+   "start": 32.204,
+   "end": 32.326
+  },
+  {
+   "word": "honor.\"",
+   "start": 32.346,
+   "end": 32.589
+  },
+  {
+   "word": "Tech",
+   "start": 32.609,
+   "end": 33.238
+  },
+  {
+   "word": "split",
+   "start": 33.258,
+   "end": 33.552
+  },
+  {
+   "word": "in",
+   "start": 33.572,
+   "end": 33.722
+  },
+  {
+   "word": "two.",
+   "start": 33.742,
+   "end": 33.94
+  },
+  {
+   "word": "Tim",
+   "start": 33.96,
+   "end": 34.569
+  },
+  {
+   "word": "Sweeney",
+   "start": 34.589,
+   "end": 34.989
+  },
+  {
+   "word": "called",
+   "start": 35.009,
+   "end": 35.36
+  },
+  {
+   "word": "it",
+   "start": 35.38,
+   "end": 35.533
+  },
+  {
+   "word": "a",
+   "start": 35.553,
+   "end": 35.657
+  },
+  {
+   "word": "sad",
+   "start": 35.677,
+   "end": 35.88
+  },
+  {
+   "word": "day",
+   "start": 35.9,
+   "end": 36.102
+  },
+  {
+   "word": "for",
+   "start": 36.122,
+   "end": 36.325
+  },
+  {
+   "word": "\"all",
+   "start": 36.345,
+   "end": 36.547
+  },
+  {
+   "word": "humanity.\"",
+   "start": 36.567,
+   "end": 37.017
+  },
+  {
+   "word": "Lex",
+   "start": 37.037,
+   "end": 37.779
+  },
+  {
+   "word": "Fridman",
+   "start": 37.799,
+   "end": 38.223
+  },
+  {
+   "word": "compared",
+   "start": 38.243,
+   "end": 38.72
+  },
+  {
+   "word": "it",
+   "start": 38.74,
+   "end": 38.903
+  },
+  {
+   "word": "to",
+   "start": 38.923,
+   "end": 39.086
+  },
+  {
+   "word": "Apple",
+   "start": 39.106,
+   "end": 39.426
+  },
+  {
+   "word": "firing",
+   "start": 39.446,
+   "end": 39.818
+  },
+  {
+   "word": "Steve",
+   "start": 39.838,
+   "end": 40.157
+  },
+  {
+   "word": "Jobs.",
+   "start": 40.177,
+   "end": 40.445
+  },
+  {
+   "word": "But",
+   "start": 40.465,
+   "end": 41.227
+  },
+  {
+   "word": "investor",
+   "start": 41.247,
+   "end": 41.693
+  },
+  {
+   "word": "Sarah",
+   "start": 41.713,
+   "end": 42.012
+  },
+  {
+   "word": "Guo",
+   "start": 42.032,
+   "end": 42.233
+  },
+  {
+   "word": "said",
+   "start": 42.253,
+   "end": 42.503
+  },
+  {
+   "word": "it",
+   "start": 42.523,
+   "end": 42.675
+  },
+  {
+   "word": "best:",
+   "start": 42.695,
+   "end": 42.945
+  },
+  {
+   "word": "greatness",
+   "start": 42.965,
+   "end": 44.034
+  },
+  {
+   "word": "doesn't",
+   "start": 44.054,
+   "end": 44.437
+  },
+  {
+   "word": "guarantee",
+   "start": 44.457,
+   "end": 44.937
+  },
+  {
+   "word": "goodness.",
+   "start": 44.957,
+   "end": 45.388
+  },
+  {
+   "word": "On",
+   "start": 45.408,
+   "end": 46.368
+  },
+  {
+   "word": "Polymarket,",
+   "start": 46.388,
+   "end": 47.039
+  },
+  {
+   "word": "Elon's",
+   "start": 47.059,
+   "end": 48.003
+  },
+  {
+   "word": "SpaceX",
+   "start": 48.023,
+   "end": 48.478
+  },
+  {
+   "word": "and",
+   "start": 48.498,
+   "end": 48.763
+  },
+  {
+   "word": "xAI",
+   "start": 48.783,
+   "end": 49.048
+  },
+  {
+   "word": "started",
+   "start": 49.068,
+   "end": 49.586
+  },
+  {
+   "word": "near",
+   "start": 49.606,
+   "end": 49.934
+  },
+  {
+   "word": "27%,",
+   "start": 49.954,
+   "end": 50.345
+  },
+  {
+   "word": "then",
+   "start": 50.365,
+   "end": 50.694
+  },
+  {
+   "word": "dropped",
+   "start": 50.714,
+   "end": 51.668
+  },
+  {
+   "word": "to",
+   "start": 51.688,
+   "end": 51.89
+  },
+  {
+   "word": "about",
+   "start": 51.91,
+   "end": 52.301
+  },
+  {
+   "word": "10.",
+   "start": 52.321,
+   "end": 52.65
+  },
+  {
+   "word": "Why?",
+   "start": 52.67,
+   "end": 53.532
+  },
+  {
+   "word": "Every",
+   "start": 53.552,
+   "end": 54.329
+  },
+  {
+   "word": "name",
+   "start": 54.349,
+   "end": 54.595
+  },
+  {
+   "word": "on",
+   "start": 54.615,
+   "end": 54.763
+  },
+  {
+   "word": "that",
+   "start": 54.783,
+   "end": 55.029
+  },
+  {
+   "word": "board",
+   "start": 55.049,
+   "end": 55.342
+  },
+  {
+   "word": "is",
+   "start": 55.362,
+   "end": 55.511
+  },
+  {
+   "word": "Nvidia's",
+   "start": 55.531,
+   "end": 55.969
+  },
+  {
+   "word": "customer,",
+   "start": 55.989,
+   "end": 56.427
+  },
+  {
+   "word": "supplier,",
+   "start": 56.447,
+   "end": 56.885
+  },
+  {
+   "word": "or",
+   "start": 56.905,
+   "end": 57.054
+  },
+  {
+   "word": "rival.",
+   "start": 57.074,
+   "end": 57.367
+  },
+  {
+   "word": "Elon",
+   "start": 57.388,
+   "end": 58.191
+  },
+  {
+   "word": "first.",
+   "start": 58.211,
+   "end": 58.617
+  },
+  {
+   "word": "Perfect",
+   "start": 58.637,
+   "end": 59.502
+  },
+  {
+   "word": "on",
+   "start": 59.522,
+   "end": 59.669
+  },
+  {
+   "word": "paper:",
+   "start": 59.689,
+   "end": 59.978
+  },
+  {
+   "word": "he",
+   "start": 59.998,
+   "end": 60.341
+  },
+  {
+   "word": "wants",
+   "start": 60.361,
+   "end": 60.607
+  },
+  {
+   "word": "his",
+   "start": 60.627,
+   "end": 60.791
+  },
+  {
+   "word": "own",
+   "start": 60.811,
+   "end": 60.976
+  },
+  {
+   "word": "chip",
+   "start": 60.996,
+   "end": 61.201
+  },
+  {
+   "word": "factory.",
+   "start": 61.221,
+   "end": 61.549
+  },
+  {
+   "word": "But",
+   "start": 61.569,
+   "end": 62.531
+  },
+  {
+   "word": "Jensen",
+   "start": 62.551,
+   "end": 62.941
+  },
+  {
+   "word": "still",
+   "start": 62.961,
+   "end": 63.297
+  },
+  {
+   "word": "owns",
+   "start": 63.317,
+   "end": 63.597
+  },
+  {
+   "word": "over",
+   "start": 63.617,
+   "end": 63.898
+  },
+  {
+   "word": "800",
+   "start": 63.918,
+   "end": 64.253
+  },
+  {
+   "word": "million",
+   "start": 64.273,
+   "end": 64.717
+  },
+  {
+   "word": "Nvidia",
+   "start": 64.737,
+   "end": 65.127
+  },
+  {
+   "word": "shares.",
+   "start": 65.147,
+   "end": 65.537
+  },
+  {
+   "word": "Every",
+   "start": 65.557,
+   "end": 66.423
+  },
+  {
+   "word": "chip",
+   "start": 66.443,
+   "end": 66.718
+  },
+  {
+   "word": "he",
+   "start": 66.738,
+   "end": 66.906
+  },
+  {
+   "word": "helps",
+   "start": 66.926,
+   "end": 67.255
+  },
+  {
+   "word": "Elon",
+   "start": 67.275,
+   "end": 67.55
+  },
+  {
+   "word": "build",
+   "start": 67.57,
+   "end": 68.241
+  },
+  {
+   "word": "is",
+   "start": 68.261,
+   "end": 68.429
+  },
+  {
+   "word": "one",
+   "start": 68.449,
+   "end": 68.67
+  },
+  {
+   "word": "Nvidia",
+   "start": 68.69,
+   "end": 69.073
+  },
+  {
+   "word": "doesn't",
+   "start": 69.093,
+   "end": 69.529
+  },
+  {
+   "word": "sell.",
+   "start": 69.549,
+   "end": 69.824
+  },
+  {
+   "word": "And",
+   "start": 69.844,
+   "end": 70.492
+  },
+  {
+   "word": "two",
+   "start": 70.512,
+   "end": 70.703
+  },
+  {
+   "word": "men",
+   "start": 70.723,
+   "end": 70.914
+  },
+  {
+   "word": "who",
+   "start": 70.934,
+   "end": 71.125
+  },
+  {
+   "word": "always",
+   "start": 71.145,
+   "end": 71.477
+  },
+  {
+   "word": "need",
+   "start": 71.497,
+   "end": 71.735
+  },
+  {
+   "word": "the",
+   "start": 71.755,
+   "end": 71.946
+  },
+  {
+   "word": "final",
+   "start": 71.966,
+   "end": 72.251
+  },
+  {
+   "word": "word?",
+   "start": 72.271,
+   "end": 72.509
+  },
+  {
+   "word": "Same",
+   "start": 72.529,
+   "end": 73.118
+  },
+  {
+   "word": "building?",
+   "start": 73.138,
+   "end": 73.571
+  },
+  {
+   "word": "Same",
+   "start": 73.591,
+   "end": 74.144
+  },
+  {
+   "word": "company?",
+   "start": 74.164,
+   "end": 74.59
+  },
+  {
+   "word": "Next,",
+   "start": 74.61,
+   "end": 75.375
+  },
+  {
+   "word": "TSMC.",
+   "start": 75.395,
+   "end": 75.597
+  },
+  {
+   "word": "Back",
+   "start": 75.617,
+   "end": 76.119
+  },
+  {
+   "word": "in",
+   "start": 76.139,
+   "end": 76.297
+  },
+  {
+   "word": "2013,",
+   "start": 76.317,
+   "end": 76.679
+  },
+  {
+   "word": "founder",
+   "start": 76.699,
+   "end": 77.707
+  },
+  {
+   "word": "Morris",
+   "start": 77.727,
+   "end": 78.186
+  },
+  {
+   "word": "Chang",
+   "start": 78.206,
+   "end": 78.969
+  },
+  {
+   "word": "tried",
+   "start": 78.989,
+   "end": 79.384
+  },
+  {
+   "word": "to",
+   "start": 79.404,
+   "end": 79.608
+  },
+  {
+   "word": "hire",
+   "start": 79.628,
+   "end": 79.96
+  },
+  {
+   "word": "Jensen",
+   "start": 79.98,
+   "end": 80.439
+  },
+  {
+   "word": "as",
+   "start": 80.459,
+   "end": 80.663
+  },
+  {
+   "word": "his",
+   "start": 80.683,
+   "end": 80.951
+  },
+  {
+   "word": "successor.",
+   "start": 80.971,
+   "end": 81.622
+  },
+  {
+   "word": "Jensen",
+   "start": 81.642,
+   "end": 82.694
+  },
+  {
+   "word": "said",
+   "start": 82.714,
+   "end": 83.017
+  },
+  {
+   "word": "no.",
+   "start": 83.037,
+   "end": 83.223
+  },
+  {
+   "word": "Today",
+   "start": 83.243,
+   "end": 84.083
+  },
+  {
+   "word": "it",
+   "start": 84.103,
+   "end": 84.291
+  },
+  {
+   "word": "sits",
+   "start": 84.311,
+   "end": 84.619
+  },
+  {
+   "word": "at",
+   "start": 84.639,
+   "end": 84.828
+  },
+  {
+   "word": "about",
+   "start": 84.848,
+   "end": 85.215
+  },
+  {
+   "word": "5%.",
+   "start": 85.235,
+   "end": 85.543
+  },
+  {
+   "word": "AMD's",
+   "start": 85.563,
+   "end": 86.581
+  },
+  {
+   "word": "Lisa",
+   "start": 86.601,
+   "end": 86.899
+  },
+  {
+   "word": "Su",
+   "start": 86.919,
+   "end": 87.101
+  },
+  {
+   "word": "is",
+   "start": 87.121,
+   "end": 87.304
+  },
+  {
+   "word": "a",
+   "start": 87.324,
+   "end": 87.448
+  },
+  {
+   "word": "distant",
+   "start": 87.468,
+   "end": 87.94
+  },
+  {
+   "word": "relative",
+   "start": 87.96,
+   "end": 88.49
+  },
+  {
+   "word": "of",
+   "start": 88.51,
+   "end": 88.692
+  },
+  {
+   "word": "Jensen's.",
+   "start": 88.712,
+   "end": 89.242
+  },
+  {
+   "word": "Imagine",
+   "start": 89.262,
+   "end": 90.016
+  },
+  {
+   "word": "that",
+   "start": 90.036,
+   "end": 90.256
+  },
+  {
+   "word": "family",
+   "start": 90.276,
+   "end": 90.582
+  },
+  {
+   "word": "dinner.",
+   "start": 90.602,
+   "end": 90.909
+  },
+  {
+   "word": "Then",
+   "start": 90.929,
+   "end": 91.636
+  },
+  {
+   "word": "SoftBank.",
+   "start": 91.656,
+   "end": 92.225
+  },
+  {
+   "word": "Masayoshi",
+   "start": 92.245,
+   "end": 93.283
+  },
+  {
+   "word": "Son",
+   "start": 93.303,
+   "end": 93.541
+  },
+  {
+   "word": "sold",
+   "start": 93.561,
+   "end": 93.856
+  },
+  {
+   "word": "his",
+   "start": 93.876,
+   "end": 94.114
+  },
+  {
+   "word": "Nvidia",
+   "start": 94.134,
+   "end": 94.544
+  },
+  {
+   "word": "stake",
+   "start": 94.564,
+   "end": 94.916
+  },
+  {
+   "word": "twice.",
+   "start": 94.936,
+   "end": 95.289
+  },
+  {
+   "word": "Now",
+   "start": 95.309,
+   "end": 95.875
+  },
+  {
+   "word": "he'd",
+   "start": 95.895,
+   "end": 96.095
+  },
+  {
+   "word": "have",
+   "start": 96.115,
+   "end": 96.316
+  },
+  {
+   "word": "to",
+   "start": 96.336,
+   "end": 96.456
+  },
+  {
+   "word": "buy",
+   "start": 96.476,
+   "end": 96.636
+  },
+  {
+   "word": "the",
+   "start": 96.656,
+   "end": 96.817
+  },
+  {
+   "word": "man",
+   "start": 96.837,
+   "end": 96.997
+  },
+  {
+   "word": "himself.",
+   "start": 97.017,
+   "end": 97.337
+  },
+  {
+   "word": "And",
+   "start": 97.357,
+   "end": 98.025
+  },
+  {
+   "word": "SoftBank",
+   "start": 98.045,
+   "end": 98.621
+  },
+  {
+   "word": "owns",
+   "start": 98.641,
+   "end": 98.966
+  },
+  {
+   "word": "ARM,",
+   "start": 98.986,
+   "end": 99.248
+  },
+  {
+   "word": "whose",
+   "start": 99.268,
+   "end": 99.946
+  },
+  {
+   "word": "boss",
+   "start": 99.966,
+   "end": 100.2
+  },
+  {
+   "word": "Nvidia's",
+   "start": 100.22,
+   "end": 100.638
+  },
+  {
+   "word": "board",
+   "start": 100.658,
+   "end": 100.938
+  },
+  {
+   "word": "reportedly",
+   "start": 100.958,
+   "end": 101.469
+  },
+  {
+   "word": "approached",
+   "start": 101.489,
+   "end": 102.0
+  },
+  {
+   "word": "for",
+   "start": 102.02,
+   "end": 102.207
+  },
+  {
+   "word": "Jensen's",
+   "start": 102.227,
+   "end": 102.646
+  },
+  {
+   "word": "old",
+   "start": 102.666,
+   "end": 102.853
+  },
+  {
+   "word": "job.",
+   "start": 102.873,
+   "end": 103.061
+  },
+  {
+   "word": "Musical",
+   "start": 103.081,
+   "end": 103.914
+  },
+  {
+   "word": "chairs,",
+   "start": 103.934,
+   "end": 104.273
+  },
+  {
+   "word": "with",
+   "start": 104.293,
+   "end": 104.537
+  },
+  {
+   "word": "trillion-dollar",
+   "start": 104.557,
+   "end": 105.328
+  },
+  {
+   "word": "chairs.",
+   "start": 105.348,
+   "end": 105.688
+  },
+  {
+   "word": "Or",
+   "start": 105.708,
+   "end": 106.352
+  },
+  {
+   "word": "he",
+   "start": 106.372,
+   "end": 106.448
+  },
+  {
+   "word": "starts",
+   "start": 106.468,
+   "end": 106.655
+  },
+  {
+   "word": "over,",
+   "start": 106.675,
+   "end": 106.806
+  },
+  {
+   "word": "like",
+   "start": 106.826,
+   "end": 106.957
+  },
+  {
+   "word": "1993,",
+   "start": 106.977,
+   "end": 107.163
+  },
+  {
+   "word": "three",
+   "start": 107.183,
+   "end": 107.804
+  },
+  {
+   "word": "engineers",
+   "start": 107.824,
+   "end": 108.128
+  },
+  {
+   "word": "in",
+   "start": 108.148,
+   "end": 108.236
+  },
+  {
+   "word": "a",
+   "start": 108.256,
+   "end": 108.313
+  },
+  {
+   "word": "Denny's",
+   "start": 108.333,
+   "end": 108.576
+  },
+  {
+   "word": "booth.",
+   "start": 108.596,
+   "end": 108.776
+  },
+  {
+   "word": "This",
+   "start": 108.796,
+   "end": 109.501
+  },
+  {
+   "word": "time,",
+   "start": 109.521,
+   "end": 109.779
+  },
+  {
+   "word": "with",
+   "start": 109.799,
+   "end": 110.056
+  },
+  {
+   "word": "$100",
+   "start": 110.076,
+   "end": 110.434
+  },
+  {
+   "word": "billion.",
+   "start": 110.454,
+   "end": 110.863
+  },
+  {
+   "word": "But",
+   "start": 110.883,
+   "end": 111.554
+  },
+  {
+   "word": "here's",
+   "start": 111.574,
+   "end": 112.185
+  },
+  {
+   "word": "the",
+   "start": 112.205,
+   "end": 112.445
+  },
+  {
+   "word": "strangest",
+   "start": 112.465,
+   "end": 113.051
+  },
+  {
+   "word": "bet.",
+   "start": 113.071,
+   "end": 113.311
+  },
+  {
+   "word": "Will",
+   "start": 113.331,
+   "end": 114.139
+  },
+  {
+   "word": "Jensen",
+   "start": 114.159,
+   "end": 114.433
+  },
+  {
+   "word": "rejoin",
+   "start": 114.453,
+   "end": 114.726
+  },
+  {
+   "word": "Nvidia?",
+   "start": 114.746,
+   "end": 115.02
+  },
+  {
+   "word": "Seven",
+   "start": 115.04,
+   "end": 115.765
+  },
+  {
+   "word": "percent",
+   "start": 115.785,
+   "end": 116.24
+  },
+  {
+   "word": "by",
+   "start": 116.26,
+   "end": 116.436
+  },
+  {
+   "word": "year-end.",
+   "start": 116.456,
+   "end": 116.967
+  },
+  {
+   "word": "Thirty-one",
+   "start": 116.987,
+   "end": 117.731
+  },
+  {
+   "word": "percent",
+   "start": 117.751,
+   "end": 118.001
+  },
+  {
+   "word": "by",
+   "start": 118.021,
+   "end": 118.112
+  },
+  {
+   "word": "the",
+   "start": 118.132,
+   "end": 118.255
+  },
+  {
+   "word": "end",
+   "start": 118.275,
+   "end": 118.398
+  },
+  {
+   "word": "of",
+   "start": 118.418,
+   "end": 118.509
+  },
+  {
+   "word": "next",
+   "start": 118.529,
+   "end": 118.684
+  },
+  {
+   "word": "year.",
+   "start": 118.704,
+   "end": 118.859
+  },
+  {
+   "word": "That's",
+   "start": 118.879,
+   "end": 119.728
+  },
+  {
+   "word": "higher",
+   "start": 119.748,
+   "end": 120.163
+  },
+  {
+   "word": "than",
+   "start": 120.183,
+   "end": 120.481
+  },
+  {
+   "word": "every",
+   "start": 120.501,
+   "end": 120.858
+  },
+  {
+   "word": "rival.",
+   "start": 120.878,
+   "end": 121.235
+  },
+  {
+   "word": "The",
+   "start": 121.255,
+   "end": 121.881
+  },
+  {
+   "word": "reason",
+   "start": 121.901,
+   "end": 122.18
+  },
+  {
+   "word": "is",
+   "start": 122.2,
+   "end": 122.319
+  },
+  {
+   "word": "the",
+   "start": 122.339,
+   "end": 122.498
+  },
+  {
+   "word": "spy",
+   "start": 122.518,
+   "end": 122.677
+  },
+  {
+   "word": "question.",
+   "start": 122.697,
+   "end": 123.055
+  },
+  {
+   "word": "Trump",
+   "start": 123.075,
+   "end": 124.3
+  },
+  {
+   "word": "said:",
+   "start": 124.32,
+   "end": 124.959
+  },
+  {
+   "word": "if",
+   "start": 124.979,
+   "end": 125.759
+  },
+  {
+   "word": "she",
+   "start": 125.779,
+   "end": 126.047
+  },
+  {
+   "word": "was",
+   "start": 126.067,
+   "end": 126.335
+  },
+  {
+   "word": "a",
+   "start": 126.355,
+   "end": 126.495
+  },
+  {
+   "word": "spy,",
+   "start": 126.515,
+   "end": 126.783
+  },
+  {
+   "word": "he",
+   "start": 126.803,
+   "end": 127.007
+  },
+  {
+   "word": "was",
+   "start": 127.027,
+   "end": 127.295
+  },
+  {
+   "word": "right",
+   "start": 127.315,
+   "end": 127.711
+  },
+  {
+   "word": "to",
+   "start": 127.731,
+   "end": 127.935
+  },
+  {
+   "word": "go.",
+   "start": 127.955,
+   "end": 128.159
+  },
+  {
+   "word": "If",
+   "start": 128.179,
+   "end": 128.808
+  },
+  {
+   "word": "not,",
+   "start": 128.828,
+   "end": 128.995
+  },
+  {
+   "word": "\"perhaps",
+   "start": 129.015,
+   "end": 129.347
+  },
+  {
+   "word": "it",
+   "start": 129.367,
+   "end": 129.493
+  },
+  {
+   "word": "would",
+   "start": 129.513,
+   "end": 129.762
+  },
+  {
+   "word": "be",
+   "start": 129.782,
+   "end": 129.907
+  },
+  {
+   "word": "different.\"",
+   "start": 129.927,
+   "end": 130.343
+  },
+  {
+   "word": "Nothing",
+   "start": 130.363,
+   "end": 131.32
+  },
+  {
+   "word": "has",
+   "start": 131.34,
+   "end": 131.521
+  },
+  {
+   "word": "been",
+   "start": 131.541,
+   "end": 131.766
+  },
+  {
+   "word": "proven,",
+   "start": 131.786,
+   "end": 132.101
+  },
+  {
+   "word": "China",
+   "start": 132.121,
+   "end": 132.778
+  },
+  {
+   "word": "denies",
+   "start": 132.798,
+   "end": 133.164
+  },
+  {
+   "word": "it,",
+   "start": 133.184,
+   "end": 133.344
+  },
+  {
+   "word": "and",
+   "start": 133.364,
+   "end": 133.938
+  },
+  {
+   "word": "Jensen",
+   "start": 133.958,
+   "end": 134.274
+  },
+  {
+   "word": "has",
+   "start": 134.294,
+   "end": 134.475
+  },
+  {
+   "word": "admitted",
+   "start": 134.495,
+   "end": 134.9
+  },
+  {
+   "word": "the",
+   "start": 134.92,
+   "end": 135.102
+  },
+  {
+   "word": "affair",
+   "start": 135.122,
+   "end": 135.437
+  },
+  {
+   "word": "and",
+   "start": 135.457,
+   "end": 135.638
+  },
+  {
+   "word": "apologized.",
+   "start": 135.658,
+   "end": 136.153
+  },
+  {
+   "word": "Why",
+   "start": 136.173,
+   "end": 137.116
+  },
+  {
+   "word": "should",
+   "start": 137.136,
+   "end": 137.44
+  },
+  {
+   "word": "you",
+   "start": 137.46,
+   "end": 137.635
+  },
+  {
+   "word": "care?",
+   "start": 137.655,
+   "end": 137.873
+  },
+  {
+   "word": "If",
+   "start": 137.893,
+   "end": 138.477
+  },
+  {
+   "word": "you",
+   "start": 138.497,
+   "end": 138.613
+  },
+  {
+   "word": "own",
+   "start": 138.632,
+   "end": 138.748
+  },
+  {
+   "word": "an",
+   "start": 138.768,
+   "end": 138.854
+  },
+  {
+   "word": "S&P",
+   "start": 138.874,
+   "end": 138.99
+  },
+  {
+   "word": "500",
+   "start": 139.01,
+   "end": 139.186
+  },
+  {
+   "word": "fund,",
+   "start": 139.206,
+   "end": 139.352
+  },
+  {
+   "word": "a",
+   "start": 139.372,
+   "end": 139.428
+  },
+  {
+   "word": "big",
+   "start": 139.448,
+   "end": 139.563
+  },
+  {
+   "word": "slice",
+   "start": 139.583,
+   "end": 139.76
+  },
+  {
+   "word": "of",
+   "start": 139.78,
+   "end": 139.865
+  },
+  {
+   "word": "it",
+   "start": 139.885,
+   "end": 139.971
+  },
+  {
+   "word": "is",
+   "start": 139.991,
+   "end": 140.077
+  },
+  {
+   "word": "Nvidia.",
+   "start": 140.097,
+   "end": 140.303
+  },
+  {
+   "word": "This",
+   "start": 140.323,
+   "end": 141.057
+  },
+  {
+   "word": "is",
+   "start": 141.077,
+   "end": 141.263
+  },
+  {
+   "word": "your",
+   "start": 141.283,
+   "end": 141.587
+  },
+  {
+   "word": "retirement.",
+   "start": 141.607,
+   "end": 142.264
+  },
+  {
+   "word": "Watch",
+   "start": 142.284,
+   "end": 143.155
+  },
+  {
+   "word": "two",
+   "start": 143.175,
+   "end": 143.441
+  },
+  {
+   "word": "dates:",
+   "start": 143.461,
+   "end": 143.854
+  },
+  {
+   "word": "Nvidia's",
+   "start": 143.874,
+   "end": 144.648
+  },
+  {
+   "word": "first",
+   "start": 144.668,
+   "end": 144.784
+  },
+  {
+   "word": "earnings",
+   "start": 144.804,
+   "end": 144.982
+  },
+  {
+   "word": "without",
+   "start": 145.002,
+   "end": 145.16
+  },
+  {
+   "word": "him,",
+   "start": 145.18,
+   "end": 145.254
+  },
+  {
+   "word": "and",
+   "start": 145.274,
+   "end": 145.878
+  },
+  {
+   "word": "December",
+   "start": 145.898,
+   "end": 146.176
+  },
+  {
+   "word": "1st,",
+   "start": 146.196,
+   "end": 146.38
+  },
+  {
+   "word": "when",
+   "start": 146.4,
+   "end": 146.552
+  },
+  {
+   "word": "Congress",
+   "start": 146.572,
+   "end": 146.85
+  },
+  {
+   "word": "questions",
+   "start": 146.87,
+   "end": 147.179
+  },
+  {
+   "word": "him.",
+   "start": 147.199,
+   "end": 147.32
+  },
+  {
+   "word": "Two",
+   "start": 147.34,
+   "end": 147.928
+  },
+  {
+   "word": "weeks",
+   "start": 147.948,
+   "end": 148.227
+  },
+  {
+   "word": "ago,",
+   "start": 148.247,
+   "end": 148.433
+  },
+  {
+   "word": "nobody",
+   "start": 148.453,
+   "end": 148.778
+  },
+  {
+   "word": "could",
+   "start": 148.798,
+   "end": 149.077
+  },
+  {
+   "word": "picture",
+   "start": 149.097,
+   "end": 149.468
+  },
+  {
+   "word": "Nvidia",
+   "start": 149.488,
+   "end": 149.813
+  },
+  {
+   "word": "without",
+   "start": 149.833,
+   "end": 150.681
+  },
+  {
+   "word": "Jensen.",
+   "start": 150.701,
+   "end": 151.026
+  },
+  {
+   "word": "Now",
+   "start": 151.046,
+   "end": 151.554
+  },
+  {
+   "word": "the",
+   "start": 151.574,
+   "end": 151.734
+  },
+  {
+   "word": "betting",
+   "start": 151.754,
+   "end": 152.075
+  },
+  {
+   "word": "money",
+   "start": 152.095,
+   "end": 152.336
+  },
+  {
+   "word": "says",
+   "start": 152.356,
+   "end": 152.556
+  },
+  {
+   "word": "neither",
+   "start": 152.576,
+   "end": 152.897
+  },
+  {
+   "word": "picture",
+   "start": 152.917,
+   "end": 153.238
+  },
+  {
+   "word": "lasts.",
+   "start": 153.258,
+   "end": 153.499
+  },
+  {
+   "word": "\"Any",
+   "start": 153.519,
+   "end": 154.719
+  },
+  {
+   "word": "offers,",
+   "start": 154.739,
+   "end": 155.846
+  },
+  {
+   "word": "Mr.",
+   "start": 155.866,
+   "end": 156.372
+  },
+  {
+   "word": "Huang?\"",
+   "start": 156.392,
+   "end": 157.978
+  },
+  {
+   "word": "\"Elon,",
+   "start": 157.998,
+   "end": 158.823
+  },
+  {
+   "word": "TSMC,",
+   "start": 158.843,
+   "end": 159.197
+  },
+  {
+   "word": "SoftBank,",
+   "start": 159.217,
+   "end": 159.842
+  },
+  {
+   "word": "a",
+   "start": 159.862,
+   "end": 160.012
+  },
+  {
+   "word": "few",
+   "start": 160.032,
+   "end": 160.317
+  },
+  {
+   "word": "governments.\"",
+   "start": 160.337,
+   "end": 161.166
+  },
+  {
+   "word": "\"What",
+   "start": 161.186,
+   "end": 161.832
+  },
+  {
+   "word": "are",
+   "start": 161.852,
+   "end": 161.966
+  },
+  {
+   "word": "you",
+   "start": 161.986,
+   "end": 162.099
+  },
+  {
+   "word": "looking",
+   "start": 162.119,
+   "end": 162.351
+  },
+  {
+   "word": "for?\"",
+   "start": 162.371,
+   "end": 162.485
+  },
+  {
+   "word": "\"My",
+   "start": 162.505,
+   "end": 163.05
+  },
+  {
+   "word": "old",
+   "start": 163.07,
+   "end": 163.302
+  },
+  {
+   "word": "desk.\"",
+   "start": 163.322,
+   "end": 163.609
+  }
+ ]
+}

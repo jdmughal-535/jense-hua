@@ -1,0 +1,5 @@
+node_modules/
+projects/*/build/
+projects/*/out/
+__pycache__/
+*.pyc

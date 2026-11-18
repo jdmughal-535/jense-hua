@@ -1,0 +1,490 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.22,
+  "speechEnd": 2.437,
+  "text": "Thursday morning, Jensen Huang lost his job.",
+  "end": 2.307
+ },
+ {
+  "i": 1,
+  "start": 2.307,
+  "speechStart": 2.457,
+  "speechEnd": 5.824,
+  "text": "By Thursday night, the richest man on Earth had offered him a new one.",
+  "end": 5.694
+ },
+ {
+  "i": 2,
+  "start": 5.694,
+  "speechStart": 5.844,
+  "speechEnd": 8.833,
+  "text": "Gamblers were betting real money on where he'd land.",
+  "end": 8.703
+ },
+ {
+  "i": 3,
+  "start": 8.703,
+  "speechStart": 8.853,
+  "speechEnd": 12.811,
+  "text": "And 1,600 Nvidia employees were begging for one thing:",
+  "end": 12.681
+ },
+ {
+  "i": 4,
+  "start": 12.681,
+  "speechStart": 12.831,
+  "speechEnd": 14.098,
+  "text": "bring him back.",
+  "end": 13.968
+ },
+ {
+  "i": 5,
+  "start": 13.968,
+  "speechStart": 14.118,
+  "speechEnd": 15.496,
+  "text": "Quick recap.",
+  "end": 15.366
+ },
+ {
+  "i": 6,
+  "start": 15.366,
+  "speechStart": 15.516,
+  "speechEnd": 20.139,
+  "text": "Two affairs, one alleged spy, and a board that said \"effective immediately.\"",
+  "end": 20.009
+ },
+ {
+  "i": 7,
+  "start": 20.009,
+  "speechStart": 20.159,
+  "speechEnd": 22.392,
+  "text": "Today's question is different:",
+  "end": 22.262
+ },
+ {
+  "i": 8,
+  "start": 22.262,
+  "speechStart": 22.412,
+  "speechEnd": 23.849,
+  "text": "who gets him next?",
+  "end": 23.719
+ },
+ {
+  "i": 9,
+  "start": 23.719,
+  "speechStart": 23.869,
+  "speechEnd": 25.628,
+  "text": "It started with one post.",
+  "end": 25.498
+ },
+ {
+  "i": 10,
+  "start": 25.498,
+  "speechStart": 25.648,
+  "speechEnd": 27.092,
+  "text": "Zero Hedge wrote:",
+  "end": 26.962
+ },
+ {
+  "i": 11,
+  "start": 26.962,
+  "speechStart": 27.112,
+  "speechEnd": 28.962,
+  "text": "\"Elon, please hire Jensen.\"",
+  "end": 28.832
+ },
+ {
+  "i": 12,
+  "start": 28.832,
+  "speechStart": 28.982,
+  "speechEnd": 31.188,
+  "text": "Elon replied in five words:",
+  "end": 31.058
+ },
+ {
+  "i": 13,
+  "start": 31.058,
+  "speechStart": 31.208,
+  "speechEnd": 32.589,
+  "text": "\"That would be an honor.\"",
+  "end": 32.459
+ },
+ {
+  "i": 14,
+  "start": 32.459,
+  "speechStart": 32.609,
+  "speechEnd": 33.94,
+  "text": "Tech split in two.",
+  "end": 33.81
+ },
+ {
+  "i": 15,
+  "start": 33.81,
+  "speechStart": 33.96,
+  "speechEnd": 37.017,
+  "text": "Tim Sweeney called it a sad day for \"all humanity.\"",
+  "end": 36.887
+ },
+ {
+  "i": 16,
+  "start": 36.887,
+  "speechStart": 37.037,
+  "speechEnd": 40.445,
+  "text": "Lex Fridman compared it to Apple firing Steve Jobs.",
+  "end": 40.315
+ },
+ {
+  "i": 17,
+  "start": 40.315,
+  "speechStart": 40.465,
+  "speechEnd": 42.945,
+  "text": "But investor Sarah Guo said it best:",
+  "end": 42.815
+ },
+ {
+  "i": 18,
+  "start": 42.815,
+  "speechStart": 42.965,
+  "speechEnd": 45.388,
+  "text": "greatness doesn't guarantee goodness.",
+  "end": 45.258
+ },
+ {
+  "i": 19,
+  "start": 45.258,
+  "speechStart": 45.408,
+  "speechEnd": 48.478,
+  "text": "On Polymarket, Elon's SpaceX",
+  "end": 48.348
+ },
+ {
+  "i": 20,
+  "start": 48.348,
+  "speechStart": 48.498,
+  "speechEnd": 53.532,
+  "text": "and xAI started near 27%, then dropped to about 10. Why?",
+  "end": 53.402
+ },
+ {
+  "i": 21,
+  "start": 53.402,
+  "speechStart": 53.552,
+  "speechEnd": 57.367,
+  "text": "Every name on that board is Nvidia's customer, supplier, or rival.",
+  "end": 57.238
+ },
+ {
+  "i": 22,
+  "start": 57.238,
+  "speechStart": 57.388,
+  "speechEnd": 58.617,
+  "text": "Elon first.",
+  "end": 58.487
+ },
+ {
+  "i": 23,
+  "start": 58.487,
+  "speechStart": 58.637,
+  "speechEnd": 59.978,
+  "text": "Perfect on paper:",
+  "end": 59.848
+ },
+ {
+  "i": 24,
+  "start": 59.848,
+  "speechStart": 59.998,
+  "speechEnd": 61.549,
+  "text": "he wants his own chip factory.",
+  "end": 61.419
+ },
+ {
+  "i": 25,
+  "start": 61.419,
+  "speechStart": 61.569,
+  "speechEnd": 65.537,
+  "text": "But Jensen still owns over 800 million Nvidia shares.",
+  "end": 65.407
+ },
+ {
+  "i": 26,
+  "start": 65.407,
+  "speechStart": 65.557,
+  "speechEnd": 69.824,
+  "text": "Every chip he helps Elon build is one Nvidia doesn't sell.",
+  "end": 69.694
+ },
+ {
+  "i": 27,
+  "start": 69.694,
+  "speechStart": 69.844,
+  "speechEnd": 75.597,
+  "text": "And two men who always need the final word? Same building? Same company? Next, TSMC.",
+  "end": 75.467
+ },
+ {
+  "i": 28,
+  "start": 75.467,
+  "speechStart": 75.617,
+  "speechEnd": 81.622,
+  "text": "Back in 2013, founder Morris Chang tried to hire Jensen as his successor.",
+  "end": 81.492
+ },
+ {
+  "i": 29,
+  "start": 81.492,
+  "speechStart": 81.642,
+  "speechEnd": 83.223,
+  "text": "Jensen said no.",
+  "end": 83.093
+ },
+ {
+  "i": 30,
+  "start": 83.093,
+  "speechStart": 83.243,
+  "speechEnd": 85.543,
+  "text": "Today it sits at about 5%.",
+  "end": 85.413
+ },
+ {
+  "i": 31,
+  "start": 85.413,
+  "speechStart": 85.563,
+  "speechEnd": 89.242,
+  "text": "AMD's Lisa Su is a distant relative of Jensen's.",
+  "end": 89.112
+ },
+ {
+  "i": 32,
+  "start": 89.112,
+  "speechStart": 89.262,
+  "speechEnd": 90.909,
+  "text": "Imagine that family dinner.",
+  "end": 90.779
+ },
+ {
+  "i": 33,
+  "start": 90.779,
+  "speechStart": 90.929,
+  "speechEnd": 92.225,
+  "text": "Then SoftBank.",
+  "end": 92.095
+ },
+ {
+  "i": 34,
+  "start": 92.095,
+  "speechStart": 92.245,
+  "speechEnd": 95.289,
+  "text": "Masayoshi Son sold his Nvidia stake twice.",
+  "end": 95.159
+ },
+ {
+  "i": 35,
+  "start": 95.159,
+  "speechStart": 95.309,
+  "speechEnd": 97.337,
+  "text": "Now he'd have to buy the man himself.",
+  "end": 97.207
+ },
+ {
+  "i": 36,
+  "start": 97.207,
+  "speechStart": 97.357,
+  "speechEnd": 103.061,
+  "text": "And SoftBank owns ARM, whose boss Nvidia's board reportedly approached for Jensen's old job.",
+  "end": 102.931
+ },
+ {
+  "i": 37,
+  "start": 102.931,
+  "speechStart": 103.081,
+  "speechEnd": 105.688,
+  "text": "Musical chairs, with trillion-dollar chairs.",
+  "end": 105.558
+ },
+ {
+  "i": 38,
+  "start": 105.558,
+  "speechStart": 105.708,
+  "speechEnd": 108.776,
+  "text": "Or he starts over, like 1993, three engineers in a Denny's booth.",
+  "end": 108.646
+ },
+ {
+  "i": 39,
+  "start": 108.646,
+  "speechStart": 108.796,
+  "speechEnd": 110.863,
+  "text": "This time, with $100 billion.",
+  "end": 110.733
+ },
+ {
+  "i": 40,
+  "start": 110.733,
+  "speechStart": 110.883,
+  "speechEnd": 113.311,
+  "text": "But here's the strangest bet.",
+  "end": 113.181
+ },
+ {
+  "i": 41,
+  "start": 113.181,
+  "speechStart": 113.331,
+  "speechEnd": 115.02,
+  "text": "Will Jensen rejoin Nvidia?",
+  "end": 114.89
+ },
+ {
+  "i": 42,
+  "start": 114.89,
+  "speechStart": 115.04,
+  "speechEnd": 116.967,
+  "text": "Seven percent by year-end.",
+  "end": 116.837
+ },
+ {
+  "i": 43,
+  "start": 116.837,
+  "speechStart": 116.987,
+  "speechEnd": 118.859,
+  "text": "Thirty-one percent by the end of next year.",
+  "end": 118.729
+ },
+ {
+  "i": 44,
+  "start": 118.729,
+  "speechStart": 118.879,
+  "speechEnd": 121.235,
+  "text": "That's higher than every rival.",
+  "end": 121.105
+ },
+ {
+  "i": 45,
+  "start": 121.105,
+  "speechStart": 121.255,
+  "speechEnd": 123.055,
+  "text": "The reason is the spy question.",
+  "end": 122.925
+ },
+ {
+  "i": 46,
+  "start": 122.925,
+  "speechStart": 123.075,
+  "speechEnd": 124.959,
+  "text": "Trump said:",
+  "end": 124.829
+ },
+ {
+  "i": 47,
+  "start": 124.829,
+  "speechStart": 124.979,
+  "speechEnd": 128.159,
+  "text": "if she was a spy, he was right to go.",
+  "end": 128.029
+ },
+ {
+  "i": 48,
+  "start": 128.029,
+  "speechStart": 128.179,
+  "speechEnd": 130.343,
+  "text": "If not, \"perhaps it would be different.\"",
+  "end": 130.213
+ },
+ {
+  "i": 49,
+  "start": 130.213,
+  "speechStart": 130.363,
+  "speechEnd": 136.153,
+  "text": "Nothing has been proven, China denies it, and Jensen has admitted the affair and apologized.",
+  "end": 136.023
+ },
+ {
+  "i": 50,
+  "start": 136.023,
+  "speechStart": 136.173,
+  "speechEnd": 137.873,
+  "text": "Why should you care?",
+  "end": 137.743
+ },
+ {
+  "i": 51,
+  "start": 137.743,
+  "speechStart": 137.893,
+  "speechEnd": 140.303,
+  "text": "If you own an S&P 500 fund, a big slice of it is Nvidia.",
+  "end": 140.173
+ },
+ {
+  "i": 52,
+  "start": 140.173,
+  "speechStart": 140.323,
+  "speechEnd": 142.264,
+  "text": "This is your retirement.",
+  "end": 142.134
+ },
+ {
+  "i": 53,
+  "start": 142.134,
+  "speechStart": 142.284,
+  "speechEnd": 143.854,
+  "text": "Watch two dates:",
+  "end": 143.724
+ },
+ {
+  "i": 54,
+  "start": 143.724,
+  "speechStart": 143.874,
+  "speechEnd": 147.32,
+  "text": "Nvidia's first earnings without him, and December 1st, when Congress questions him.",
+  "end": 147.19
+ },
+ {
+  "i": 55,
+  "start": 147.19,
+  "speechStart": 147.34,
+  "speechEnd": 151.026,
+  "text": "Two weeks ago, nobody could picture Nvidia without Jensen.",
+  "end": 150.896
+ },
+ {
+  "i": 56,
+  "start": 150.896,
+  "speechStart": 151.046,
+  "speechEnd": 153.499,
+  "text": "Now the betting money says neither picture lasts.",
+  "end": 153.369
+ },
+ {
+  "i": 57,
+  "start": 153.369,
+  "speechStart": 153.519,
+  "speechEnd": 156.372,
+  "text": "\"Any offers, Mr.",
+  "end": 156.242
+ },
+ {
+  "i": 58,
+  "start": 156.242,
+  "speechStart": 156.392,
+  "speechEnd": 157.978,
+  "text": "Huang?\"",
+  "end": 157.848
+ },
+ {
+  "i": 59,
+  "start": 157.848,
+  "speechStart": 157.998,
+  "speechEnd": 161.166,
+  "text": "\"Elon, TSMC, SoftBank, a few governments.\"",
+  "end": 161.036
+ },
+ {
+  "i": 60,
+  "start": 161.036,
+  "speechStart": 161.186,
+  "speechEnd": 163.609,
+  "text": "\"What are you looking for?\" \"My old desk.\"",
+  "end": 165.109
+ }
+]
